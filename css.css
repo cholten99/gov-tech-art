@@ -1,0 +1,68 @@
+img {
+  max-width:100%;
+  max-height:100%;
+  padding:2px;
+}
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    width: 60%;
+}
+
+#pagePadding {
+  margin-left:10px;
+}
+
+#fixedHeader {
+  position:absolute;
+  top:0px:
+  left:0px;
+}
+
+#art {
+  max-height:20%;
+  max-height: 70%;
+  overflow-y: scroll;
+}
+
+#picBox {
+  max-width:20%;
+  min-width:20%;
+  min-height: 38%;
+  margin-right:30px;
+  margin-bottom:5px;
+  float:left;
+}
+
+#pic {
+  border-style:solid;
+  border-width:1;
+  border-color:blue;
+  min-height:30%;
+  max-height:30%;
+  overflow-y:hidden;
+}
+
+#picText {
+}
+
+#uploadForm {
+  width:50%;
+}
+
+#testBox {
+  color:red;
+  font-weight: bold;
+}
+
+#testBorder {
+  border-style: solid;
+  border-width: 1;
+  border-color: red;
+}
